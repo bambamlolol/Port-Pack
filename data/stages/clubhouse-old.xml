@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/MOUSE/" zoom="0.8">
+	<sprite x="-919" y="-445" sprite="Clubhouse-old" name="Clubhouse-old"/>
+	<combo x="459.5" y="169"/>
+	<dad x="-361" y="-101.5"/>
+	<gf x="580.5" y="-147.5"/>
+	<bf x="918.5" y="-174.5"/>
+</stage>

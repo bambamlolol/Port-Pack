@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 120,
+	"difficulties": [
+		"OLD"
+	],
+	"needsVoices": false,
+	"parsedColor": -16777216,
+	"displayName": "Welcome Old",
+	"icon": "betamouse",
+	"name": "Welcome (Old)",
+	"color": "#000000"
+}
