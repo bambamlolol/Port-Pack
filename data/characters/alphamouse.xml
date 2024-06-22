@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-320" icon="betamouse" camx="-150" y="0" isGF="false" scale="0.65" camy="110" color="#010000" isPlayer="false" sprite="vs mouse/alphamouse_assets">
+	<anim x="-155.384615384615" loop="false" y="107.692307692308" fps="24" anim="Idle" name="idle"/>
+	<anim x="384.615384615385" loop="false" y="136.923076923077" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="1.53846153846154" loop="false" y="661.538461538462" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="-32.3076923076923" loop="false" y="-89.2307692307692" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="26.1538461538462" loop="false" y="113.846153846154" fps="24" anim="Up" name="singUP"/>
+</character>
